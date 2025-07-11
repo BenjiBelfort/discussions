@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "question": "Crois-tu au mariage?"
+  },
+  {
+    "id": 2,
+    "question": "Crois-tu qu'il y a d'autres formes de vie dans le reste de l'univers?"
+  },
+  {
+    "id": 3,
+    "question": "Te considères-tu plus \"jeune de coeur\" ou \"vieille âme\"?"
+  },
+  {
+    "id": 4,
+    "question": "Si tu avais à donner un conseil basé sur ton expérience des dernières années, quel serait-il?"
+  },
+  {
+    "id": 5,
+    "question": "Imagine un monde où tu pourrais voir une échelle qui mesure sur 10 au-dessus de la tête de chaque personne. Que voudrais-tu que cette échelle indique?"
+  },
+  {
+    "id": 6,
+    "question": "Tu dois choisir un univers fictif où vivre pour toujours: Harry Potter, Marvel ou Avatar?"
+  },
+  {
+    "id": 7,
+    "question": "Si tu avais le pouvoir de surmonter l'une de tes peurs, quelle serait-elle?"
+  },
+  {
+    "id": 8,
+    "question": "De quoi es-tu passionné(e) en ce moment?"
+  },
+  {
+    "id": 9,
+    "question": "Quelle \"opinion impopulaire\" as-tu?"
+  },
+  {
+    "id": 10,
+    "question": "Si tout était possible, comment se déroulerait ta journée de rêve?"
+  },
+  {
+    "id": 11,
+    "question": "Crois-tu aux âmes soeurs?"
+  },
+  {
+    "id": 12,
+    "question": "Raconte une anecdote qui te fait penser: \"je ne peux pas croire que j'ai fait ça!\"."
+  },
+  {
+    "id": 13,
+    "question": "D'accord ou pas d'accord: la personnalité d'une personne influence à quel point tu la trouves belle."
+  },
+  {
+    "id": 14,
+    "question": "Quel est ton premier souvenir avec chacune des personnes présentes ici."
+  },
+  {
+    "id": 15,
+    "question": "As-tu essayé quelque chose de nouveau dans la dernière année? Quoi?"
+  },
+  {
+    "id": 16,
+    "question": "Quelle personne aimes-tu suivre sur les réseaux sociaux en ce moment? Pourquoi?"
+  },
+  {
+    "id": 17,
+    "question": "Si tu avais un budget illimité, quelle serait la destination de ton prochain voyage?"
+  },
+  {
+    "id": 18,
+    "question": "Si tu pouvais inviter à souper une personne de ton choix, vivante, réelle ou non, qui serait-elle?"
+  },
+  {
+    "id": 19,
+    "question": "Qu'est-ce que la majorité des gens ignore à propos de toi?"
+  },
+  {
+    "id": 20,
+    "question": "Si tu pouvais faire suivre une règle à tout le monde, quelle serait-elle?"
+  },
+  {
+    "id": 21,
+    "question": "Nomme 3 choses qui sont sur ta bucketlist."
+  },
+  {
+    "id": 22,
+    "question": "Quel film as-tu regardé le plus souvent; un de tes films préférés?"
+  },
+  {
+    "id": 23,
+    "question": "Quelle qualité apprécies-tu le plus chez un(e) ami(e)?"
+  },
+  {
+    "id": 24,
+    "question": "Raconte un moment où tu as été vraiment chanceux (chanceuse)."
+  },
+  {
+    "id": 25,
+    "question": "Qu'aimerais-tu apprendre?"
+  },
+  {
+    "id": 26,
+    "question": "Qu'aimes-tu faire pour te détendre?"
+  },
+  {
+    "id": 27,
+    "question": "Que ferais-tu si tu gagnais à la loterie?"
+  },
+  {
+    "id": 28,
+    "question": "Si tu pouvais prendre la place d'une célébrité pour une journée, qui serait-elle et pourquoi?"
+  },
+  {
+    "id": 29,
+    "question": "Quelle est la chose la plus gentille que quelqu'un a faite pour toi?"
+  },
+  {
+    "id": 30,
+    "question": "Si tu avais à écrire un livre, sur quel sujet porterait-il?"
+  },
+  {
+    "id": 31,
+    "question": "Dans tes relations, qu'est-ce qui est non négociable?"
+  },
+  {
+    "id": 32,
+    "question": "Si on te garantissait une réponse honnête, que demanderais-tu et à qui?"
+  },
+  {
+    "id": 33,
+    "question": "Si tu pouvais ajouter une matière à être enseignée à l'école, quelle serait-elle?"
+  },
+  {
+    "id": 34,
+    "question": "Que ferais-tu si on te garantissait que tu ne pouvais pas échouer?"
+  },
+  {
+    "id": 35,
+    "question": "Décris un des moments les plus magiques que tu as vécu à ce jour."
+  },
+  {
+    "id": 36,
+    "question": "Crois-tu aux fantômes?"
+  },
+  {
+    "id": 37,
+    "question": "Si tu étais riche et célèbre, quel serait le principal avantage à tes yeux? Le principal inconvénient?"
+  },
+  {
+    "id": 38,
+    "question": "Raconte un moment où tu as été fier (fière) de toi."
+  },
+  {
+    "id": 39,
+    "question": "Quel est ton moment préféré dans l'année?"
+  },
+  {
+    "id": 40,
+    "question": "Si tu avais la possibilité de devenir immortel, le ferais-tu?"
+  },
+  {
+    "id": 41,
+    "question": "Quel compliment as-tu déjà reçu et que tu n'as jamais oublié?"
+  },
+  {
+    "id": 42,
+    "question": "Que crois-tu qu'il arrive après la mort?"
+  },
+  {
+    "id": 43,
+    "question": "Quelle expérience aimerais-tu revivre pour la première fois?"
+  },
+  {
+    "id": 44,
+    "question": "Quels seraient 3 mots que ton entourage utiliserait pour te décrire?"
+  },
+  {
+    "id": 45,
+    "question": "Crois-tu en l'astrologie?"
+  }
+]
