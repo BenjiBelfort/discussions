@@ -20,15 +20,15 @@ const Discussions = () => {
       {/* Flèche de retour */}
       <button
         onClick={() => navigate("/")}
-        className="absolute top-6 left-1/2 transform -translate-x-1/2 text-3xl text-gray-600 hover:text-black transition"
+        className="absolute top-6 left-1/2 transform -translate-x-1/2 text-3xl text-white hover:text-gray-500 transition"
         aria-label="Retour"
       >
-        ⬅
+        &larr; Retour
       </button>
 
       {/* Card avec hauteur fixe */}
       {question && (
-        <div className="bg-white shadow-lg rounded-xl p-8 w-full max-w-xl text-center h-52 flex items-center justify-center">
+        <div className="bg-gray-500 shadow-lg rounded-xl p-8 w-full max-w-xl text-center h-52 flex items-center justify-center">
           <p className="text-lg font-medium">{question.question}</p>
         </div>
       )}
