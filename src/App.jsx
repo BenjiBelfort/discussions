@@ -2,7 +2,7 @@ import AppRouter from "./routes/AppRouter";
 
 const App = () => {
   return (
-    <div className="bg-gray-900 text-gray-100 p-[15px] min-h-screen box-border border-4 border-amber-300">
+    <div className="bg-gray-800 text-gray-100 p-[15px] min-h-screen box-border border-12 border-gray-900">
       <AppRouter />
     </div>
   );

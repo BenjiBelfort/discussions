@@ -1,14 +1,14 @@
 import { useEffect, useState } from "react";
-import discussionsData from "../data/discussions.json";
+import resoudreData from "../data/resoudre.json";
 import RetourButton from "../components/RetourButton";
 import NouvelleQuestionButton from "../components/NouvelleQuestionButton";
 
-const Discussions = () => {
+const Resoudre = () => {
   const [question, setQuestion] = useState(null);
 
   const getRandomQuestion = () => {
-    const randomIndex = Math.floor(Math.random() * discussionsData.length);
-    setQuestion(discussionsData[randomIndex]);
+    const randomIndex = Math.floor(Math.random() * resoudreData.length);
+    setQuestion(resoudreData[randomIndex]);
   };
 
   useEffect(() => {
@@ -33,4 +33,4 @@ const Discussions = () => {
   );
 };
 
-export default Discussions;
+export default Resoudre;
