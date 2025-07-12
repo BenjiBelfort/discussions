@@ -1,33 +1,28 @@
-import { useNavigate } from "react-router-dom";
 import { RiSpeakFill } from "react-icons/ri";
 import { FaHeart, FaReact } from "react-icons/fa";
+import { GiBilledCap, GiVomiting } from "react-icons/gi";
+
+import Card from "../components/Card";
 
 const Home = () => {
-  const navigate = useNavigate();
+  const cards = [
+    { icon: RiSpeakFill, label: "Discussions", path: "/discussions" },
+    { icon: FaHeart, label: "Amour", path: "/amour" },
+    { icon: FaReact, label: "Résoudre", path: "/resoudre" },
+    { icon: GiBilledCap, label: "Ado", path: "/ado" },
+    { icon: GiVomiting, label: "Trash", path: "/trash" },
+  ];
 
   return (
     <section className="min-h-screen flex justify-center items-center flex-wrap gap-8 px-4">
-      <div
-        className="w-52 h-40 bg-gray-500 rounded-xl shadow-md flex flex-col items-center justify-center font-semibold text-lg cursor-pointer hover:bg-gray-200 hover:text-black transition"
-        onClick={() => navigate("/discussions")}
-      >
-        <RiSpeakFill className="text-3xl mb-2" />
-        Discussions
-      </div>
-      <div
-        className="w-52 h-40 bg-gray-500 rounded-xl shadow-md flex flex-col items-center justify-center font-semibold text-lg cursor-pointer hover:bg-gray-200 hover:text-black transition"
-        onClick={() => navigate("/amour")}
-      >
-        <FaHeart className="text-3xl mb-2" />
-        Amour
-      </div>
-      <div
-        className="w-52 h-40 bg-gray-500 rounded-xl shadow-md flex flex-col items-center justify-center font-semibold text-lg cursor-pointer hover:bg-gray-200 hover:text-black transition"
-        onClick={() => navigate("/resoudre")}
-      >
-        <FaReact className="text-3xl mb-2" />
-        Résoudre
-      </div>
+      {cards.map((card, index) => (
+        <Card
+          key={index}
+          icon={card.icon}
+          label={card.label}
+          path={card.path}
+        />
+      ))}
     </section>
   );
 };
