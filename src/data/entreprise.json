@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "question": "Qu’est-ce qui vous a motivé à rejoindre cette entreprise ?"
+  },
+  {
+    "id": 2,
+    "question": "Quel aspect de votre travail aimez-vous le plus ?"
+  },
+  {
+    "id": 3,
+    "question": "Comment décririez-vous la culture de votre entreprise ?"
+  },
+  {
+    "id": 4,
+    "question": "Quel est le plus grand défi que vous avez rencontré dans votre poste actuel ?"
+  },
+  {
+    "id": 5,
+    "question": "Quelle compétence avez-vous développée récemment ?"
+  },
+  {
+    "id": 6,
+    "question": "Comment gérez-vous le stress au travail ?"
+  },
+  {
+    "id": 7,
+    "question": "Quelle est votre plus grande réussite professionnelle ?"
+  },
+  {
+    "id": 8,
+    "question": "Comment collaborez-vous avec vos collègues au quotidien ?"
+  },
+  {
+    "id": 9,
+    "question": "Quels outils ou logiciels utilisez-vous le plus dans votre travail ?"
+  },
+  {
+    "id": 10,
+    "question": "Comment restez-vous motivé(e) face aux tâches répétitives ?"
+  },
+  {
+    "id": 11,
+    "question": "Quelles sont les qualités clés pour réussir dans votre métier ?"
+  },
+  {
+    "id": 12,
+    "question": "Quelle formation professionnelle vous a le plus marqué ?"
+  },
+  {
+    "id": 13,
+    "question": "Comment équilibrez-vous vie professionnelle et vie personnelle ?"
+  },
+  {
+    "id": 14,
+    "question": "Quel conseil donneriez-vous à quelqu’un qui débute dans votre secteur ?"
+  },
+  {
+    "id": 15,
+    "question": "Qu’est-ce qui vous plaît le moins dans votre travail ?"
+  },
+  {
+    "id": 16,
+    "question": "Comment décririez-vous votre style de management (ou de collaboration) ?"
+  },
+  {
+    "id": 17,
+    "question": "Quelles sont les valeurs importantes pour vous dans un environnement de travail ?"
+  },
+  {
+    "id": 18,
+    "question": "Comment voyez-vous votre carrière dans cinq ans ?"
+  },
+  {
+    "id": 19,
+    "question": "Avez-vous un mentor ou une personne qui vous inspire professionnellement ?"
+  },
+  {
+    "id": 20,
+    "question": "Comment gérez-vous les conflits au travail ?"
+  },
+  {
+    "id": 21,
+    "question": "Quelle est votre routine quotidienne au bureau ?"
+  },
+  {
+    "id": 22,
+    "question": "Quelles sont les tendances actuelles dans votre secteur qui vous intéressent ?"
+  },
+  {
+    "id": 23,
+    "question": "Quel est le meilleur conseil professionnel que vous ayez reçu ?"
+  },
+  {
+    "id": 24,
+    "question": "Quelle est la chose la plus surprenante que vous ayez apprise dans votre travail ?"
+  },
+  {
+    "id": 25,
+    "question": "Comment célébrez-vous les succès d’équipe ?"
+  },
+  {
+    "id": 26,
+    "question": "Qu’est-ce qui vous aide à rester productif tout au long de la journée ?"
+  },
+  {
+    "id": 27,
+    "question": "Quelle qualité appréciez-vous le plus chez vos collègues ?"
+  },
+  {
+    "id": 28,
+    "question": "Avez-vous déjà eu une idée qui a changé votre façon de travailler ?"
+  },
+  {
+    "id": 29,
+    "question": "Comment vous tenez-vous informé des évolutions dans votre domaine ?"
+  },
+  {
+    "id": 30,
+    "question": "Quel aspect de votre travail aimeriez-vous améliorer ?"
+  }
+]
